@@ -1,2 +1,2 @@
 # Parsingm.github.io
-Personal Websites I made, showcases my learning and journey in coding.
+Personal Websites I made, showcasing my learning and journey in coding.
